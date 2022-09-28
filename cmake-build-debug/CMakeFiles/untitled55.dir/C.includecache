@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Hila Cohen/CLionProjects/untitled55/AVL.c
+stdio.h
+-
+AVL.h
+/mnt/c/Users/Hila Cohen/CLionProjects/untitled55/AVL.h
+
+/mnt/c/Users/Hila Cohen/CLionProjects/untitled55/AVL.h
+stdbool.h
+-
+malloc.h
+-
+

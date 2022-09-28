@@ -1,0 +1,3 @@
+/mnt/c/Users/Hila Cohen/CLionProjects/untitled55/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Hila Cohen/CLionProjects/untitled55/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Hila Cohen/CLionProjects/untitled55/cmake-build-debug/CMakeFiles/untitled55.dir
