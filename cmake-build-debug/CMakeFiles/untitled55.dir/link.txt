@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/untitled55.dir/AVL.c.o  -o untitled55 
